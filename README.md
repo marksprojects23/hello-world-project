@@ -6,7 +6,7 @@ This software is a simple console application that outputs "Hello World! From Ma
 
 The purpose of this software is to reinforce the initial steps in setting up a coding environment, managing source code via GitHub, and gaining confidence in writing, running, and demonstrating software projects.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/LO--ABEJlXs)
 
 # Development Environment
 
